@@ -22,6 +22,7 @@ npm run dev
 
 **Location:** `Section 3/user-cards/`
 **API Used:** https://jsonplaceholder.typicode.com/users
+**Deployed:** https://react-code-byte-assignment.vercel.app/
 
 ### How to Run:
 
